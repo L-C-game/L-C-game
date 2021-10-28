@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Design
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me lc.lauramaryclarke@gmail.com
 
 <!---
 L-C-game/L-C-game is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
