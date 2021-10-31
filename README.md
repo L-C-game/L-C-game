@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L-C-game,
+- 👋 Hi, I’m Laura @L-C-game,
 - 👀 I’m interested in Game Programming,
 - 🌱 I’m currently learning C++,
 - 📫 How to reach me lc.lauramaryclarke@gmail.com
